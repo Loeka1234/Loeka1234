@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-💻 Main Skills:
+### 💻 Main Skills:
 1. Html, css, javascript
 2. Typescript
 3. React
