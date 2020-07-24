@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Loeka1234&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&fontSize=65)
+
+# Welcome to my profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loeka1234)](https://github.com/anuraghazra/github-readme-stats)
 
