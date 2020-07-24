@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Loeka1234%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Loeka1234&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loeka1234)](https://github.com/anuraghazra/github-readme-stats)
 
