@@ -2,6 +2,13 @@
 
 # Welcome to my profile
 
+💻 Main Skills:
+1. Html, css, javascript
+2. Typescript
+3. React
+4. Nodejs
+5. C# [-]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loeka1234)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
