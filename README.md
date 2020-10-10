@@ -3,9 +3,10 @@
 ### 💻 Main Skills:
 1. Html, css, javascript
 2. Typescript
-3. React
+3. React, NextJS
 4. Nodejs
 5. C# [-]
+6. PHP [-]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loeka1234)](https://github.com/anuraghazra/github-readme-stats)
 
