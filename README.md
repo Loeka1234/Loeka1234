@@ -1,5 +1,7 @@
 # Welcome to my profile
 
+![banner](banner.png)
+
 ### 💻 Main Skills:
 1. HTML, CSS, Javascript
 2. Typescript
