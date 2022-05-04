@@ -130,23 +130,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">zatre-g71</span>
-                                <div class="bar" style="width: 68.96%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">86%</span>
+                                <div class="bar" style="width: 62.72%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">78%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Multithreading</span>
+                                <div class="bar" style="width: 6.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Music</span>
-                                <div class="bar" style="width: 7.4959999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.823999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">untitled</span>
-                                <div class="bar" style="width: 3.5119999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 0.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
